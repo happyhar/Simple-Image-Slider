@@ -1,0 +1,29 @@
+.slider{
+    height:400px;
+    width:70%;
+    margin-left: 15%;
+    margin-top: 40px;
+    background-color: greenyellow;
+    /* padding: 10px; */
+    overflow: hidden;
+}
+.child{
+    height:400px;
+    width:500%;
+    background-color: grey;
+    /* transition: 1s; */
+    
+}
+.slide{
+    height:400px;
+    width:20%;
+    float: left;
+}
+.head{
+    width:75%;
+    text-align: center;
+    margin-left: 15%;
+    /* background-color: indianred; */
+    text-decoration-color: indigo;
+    color :brown;
+}
